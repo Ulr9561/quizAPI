@@ -1,0 +1,432 @@
+{
+    "categories": [
+        {
+            "title": "Sciences",
+            "subcategories": [
+                {
+                    "name": "Physique",
+                    "tags": [
+                        "Mécanique",
+                        "Thermodynamique",
+                        "Optique",
+                        "Physique Quantique"
+                    ]
+                },
+                {
+                    "name": "Astronomie",
+                    "tags": ["Planètes", "Étoiles", "Galaxies", "Cosmologie"]
+                },
+                {
+                    "name": "Mathematiques",
+                    "tags": [
+                        "Algèbre",
+                        "Arithmétique",
+                        "Géométrie",
+                        "Statistiques"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Technologie",
+            "subcategories": [
+                {
+                    "name": "Informatique",
+                    "tags": [
+                        "Programmation",
+                        "Systèmes d'Exploitation",
+                        "Sécurité Informatique",
+                        "Réseaux"
+                    ]
+                },
+                {
+                    "name": "Électronique",
+                    "tags": [
+                        "Circuits",
+                        "Microcontrôleurs",
+                        "Capteurs",
+                        "Composants Électroniques"
+                    ]
+                },
+                {
+                    "name": "Innovations",
+                    "tags": [
+                        "Startups",
+                        "Technologies Émergentes",
+                        "Recherche et Développement",
+                        "Prototypes"
+                    ]
+                },
+                {
+                    "name": "Historique de la Tech",
+                    "tags": [
+                        "Inventions",
+                        "Pionniers de la Tech",
+                        "Évolutions Technologiques",
+                        "Événements Marquants"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Divertissement",
+            "subcategories": [
+                {
+                    "name": "Cinéma",
+                    "tags": [
+                        "Genres Cinématographiques",
+                        "Réalisateurs",
+                        "Oscars",
+                        "Films Célèbres"
+                    ]
+                },
+                {
+                    "name": "Musique",
+                    "tags": [
+                        "Genres Musicaux",
+                        "Artistes",
+                        "Concerts",
+                        "Albums"
+                    ]
+                },
+                {
+                    "name": "Séries",
+                    "tags": [
+                        "Séries TV",
+                        "Plateformes de Streaming",
+                        "Épisodes Célèbres",
+                        "Récompenses"
+                    ]
+                },
+                {
+                    "name": "Jeux Vidéo",
+                    "tags": [
+                        "Consoles",
+                        "Genres de Jeux",
+                        "Développeurs",
+                        "Tournois de Jeux Vidéo"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Sports",
+            "subcategories": [
+                {
+                    "name": "Football",
+                    "tags": [
+                        "Coupes du Monde",
+                        "Clubs",
+                        "Joueurs",
+                        "Entraîneurs"
+                    ]
+                },
+                {
+                    "name": "Basketball",
+                    "tags": [
+                        "NBA",
+                        "Joueurs",
+                        "Équipes",
+                        "Compétitions Internationales"
+                    ]
+                },
+                {
+                    "name": "Tennis",
+                    "tags": [
+                        "Grands Chelems",
+                        "Joueurs",
+                        "Surfaces de Jeu",
+                        "Records"
+                    ]
+                },
+                {
+                    "name": "Athlétisme",
+                    "tags": ["Olympiques", "Records", "Discipline", "Athlètes"]
+                }
+            ]
+        },
+        {
+            "title": "Cuisine",
+            "subcategories": [
+                {
+                    "name": "Recettes",
+                    "tags": [
+                        "Plats Principaux",
+                        "Desserts",
+                        "Entrées",
+                        "Boissons"
+                    ]
+                },
+                {
+                    "name": "Cuisine du Monde",
+                    "tags": [
+                        "Cuisine Italienne",
+                        "Cuisine Française",
+                        "Cuisine Japonaise",
+                        "Cuisine Mexicaine"
+                    ]
+                },
+                {
+                    "name": "Techniques de Cuisine",
+                    "tags": ["Cuisson", "Découpage", "Sauces", "Garnitures"]
+                },
+                {
+                    "name": "Chefs Célèbres",
+                    "tags": [
+                        "Gordon Ramsay",
+                        "Alain Ducasse",
+                        "Massimo Bottura",
+                        "Jamie Oliver"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Histoire",
+            "subcategories": [
+                {
+                    "name": "Antiquité",
+                    "tags": [
+                        "Égypte Ancienne",
+                        "Grèce Antique",
+                        "Rome Antique",
+                        "Civilisations Précolombiennes"
+                    ]
+                },
+                {
+                    "name": "Moyen Âge",
+                    "tags": [
+                        "Chevaliers",
+                        "Châteaux",
+                        "Croisades",
+                        "Invasions Barbares"
+                    ]
+                },
+                {
+                    "name": "Époque Moderne",
+                    "tags": [
+                        "Renaissance",
+                        "Révolutions",
+                        "Colonialisme",
+                        "Évolution Politique"
+                    ]
+                },
+                {
+                    "name": "Histoire Contemporaine",
+                    "tags": [
+                        "Guerres Mondiales",
+                        "Guerre Froide",
+                        "Globalisation",
+                        "Conflits Modernes"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Voyages",
+            "subcategories": [
+                {
+                    "name": "Destinations",
+                    "tags": [
+                        "Capitales",
+                        "Plages",
+                        "Montagnes",
+                        "Parcs Nationaux"
+                    ]
+                },
+                {
+                    "name": "Culture Locale",
+                    "tags": [
+                        "Traditions",
+                        "Artisanat",
+                        "Fêtes",
+                        "Langues Locales"
+                    ]
+                },
+                {
+                    "name": "Aventures",
+                    "tags": ["Randonnée", "Alpinisme", "Plongée", "Safari"]
+                },
+                {
+                    "name": "Conseils de Voyage",
+                    "tags": ["Sécurité", "Budget", "Transport", "Écologie"]
+                }
+            ]
+        },
+        {
+            "title": "Langues",
+            "subcategories": [
+                {
+                    "name": "Grammaire",
+                    "tags": [
+                        "Syntaxe",
+                        "Conjugaison",
+                        "Accord",
+                        "Figures de Style"
+                    ]
+                },
+                {
+                    "name": "Vocabulaire",
+                    "tags": [
+                        "Mots Courants",
+                        "Expressions",
+                        "Synonymes",
+                        "Antonymes"
+                    ]
+                },
+                {
+                    "name": "Langues du Monde",
+                    "tags": ["Anglais", "Français", "Espagnol", "Mandarin"]
+                },
+                {
+                    "name": "Culture Linguistique",
+                    "tags": [
+                        "Étymologie",
+                        "Dialects",
+                        "Langues en Danger",
+                        "Évolution Linguistique"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Mode et Beauté",
+            "subcategories": [
+                {
+                    "name": "Tendances Mode",
+                    "tags": [
+                        "Haute Couture",
+                        "Streetwear",
+                        "Vintage",
+                        "Minimalisme"
+                    ]
+                },
+                {
+                    "name": "Conseils de Beauté",
+                    "tags": [
+                        "Soins de la Peau",
+                        "Maquillage",
+                        "Coiffure",
+                        "Parfumerie"
+                    ]
+                },
+                {
+                    "name": "Histoire de la Mode",
+                    "tags": [
+                        "Époques",
+                        "Designers Célèbres",
+                        "Évolution du Style",
+                        "Icônes de la Mode"
+                    ]
+                },
+                {
+                    "name": "Mode Durable",
+                    "tags": [
+                        "Éco-responsabilité",
+                        "Matériaux Écologiques",
+                        "Marques Éthiques",
+                        "Recyclage"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Philosophie",
+            "subcategories": [
+                {
+                    "name": "Philosophies Ancestrales",
+                    "tags": [
+                        "Stoïcisme",
+                        "Confucianisme",
+                        "Bouddhisme",
+                        "Platonisme"
+                    ]
+                },
+                {
+                    "name": "Philosophes Célèbres",
+                    "tags": ["Socrate", "Aristote", "Descartes", "Nietzsche"]
+                },
+                {
+                    "name": "Théories Contemporaines",
+                    "tags": [
+                        "Existentialisme",
+                        "Structuralisme",
+                        "Déconstruction",
+                        "Théorie Critique"
+                    ]
+                },
+                {
+                    "name": "Débats Philosophiques",
+                    "tags": [
+                        "Éthique",
+                        "Métaphysique",
+                        "Logique",
+                        "Philosophie Politique"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Devinettes",
+            "subcategories": [
+                {
+                    "name": "Classiques",
+                    "tags": ["Enigmes", "Jeux de Mots", "Réflexion", "Mystères"]
+                },
+                {
+                    "name": "Enigmes Mathematiques",
+                    "tags": ["Chiffres", "Calculs", "Logique", "Algèbre"]
+                },
+                {
+                    "name": "Enigmes Logiques",
+                    "tags": ["Logique", "Raisonnement", "Puzzle", "Déduction"]
+                },
+                {
+                    "name": "Devinettes pour enfants",
+                    "tags": [
+                        "Faciles",
+                        "Humoristiques",
+                        "Educative",
+                        "Immaginaire"
+                    ]
+                },
+                {
+                    "name": "Devinettes pour adultes",
+                    "tags": [
+                        "Diffciles",
+                        "Sophistiquées",
+                        "Cérébrale",
+                        "Complexes"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Jeux de mots",
+            "subcategories": [
+                {
+                    "name": "Anagrames",
+                    "tags": ["Lettres", "Mots", "Réarrangement", "Permutations"]
+                },
+                {
+                    "name": "Charades",
+                    "tags": [
+                        "Mimes",
+                        "Expressions",
+                        "Jeux en groupe",
+                        "Actions"
+                    ]
+                },
+                {
+                    "name": "Blagues",
+                    "tags": [
+                        "Humoristiques",
+                        "Calembours",
+                        "Situations comiques",
+                        "Jeux de mots"
+                    ]
+                }
+            ]
+        }
+    ]
+}
